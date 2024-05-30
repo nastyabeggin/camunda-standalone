@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="camunda-bpm-run-core">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/internal/camunda-bpm-run-core.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

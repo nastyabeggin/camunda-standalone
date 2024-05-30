@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="swaggerui">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/internal/swaggerui/camunda-bpm-run-modules-swaggerui.jar!/" />
+      <root url="jar://$PROJECT_DIR$/internal/swaggerui/camunda-engine-rest-openapi-7.22.0-alpha1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

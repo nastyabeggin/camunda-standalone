@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="camunda-bpm-run-modules-example-invoice">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/internal/example/camunda-bpm-run-modules-example-invoice.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

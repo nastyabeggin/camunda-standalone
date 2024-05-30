@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="userlib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/configuration/userlib/groovy-xml-2.4.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/configuration/userlib/groovy-2.4.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/configuration/userlib/groovy-jsr223-2.4.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/configuration/userlib/h2-2.1.214.jar!/" />
+      <root url="jar://$PROJECT_DIR$/configuration/userlib/groovy-templates-2.4.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/configuration/userlib/groovy-json-2.4.21.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
